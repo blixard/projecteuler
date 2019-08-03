@@ -1,5 +1,8 @@
-//shubhaprasa padhy
+//Shubhaprasa Padhy
+//regd no : 19410121001
+//phone no : 9040370706
 //multiples of 3 and 5
+//Find the sum of all the multiples of 3 or 5 below 1000
 #include<iostream.h>
 #include<conio.h>
 void main ()
